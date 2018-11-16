@@ -1,4 +1,4 @@
-package Item01.samples.kotlin.sample2
+package Item01.kotlin.sample2
 
 interface UserRepository {
     fun getUser(): User

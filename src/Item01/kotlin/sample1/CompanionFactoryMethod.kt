@@ -1,4 +1,4 @@
-package Item01.samples.kotlin.sample1
+package Item01.kotlin.sample1
 
 class MyList {
     //...

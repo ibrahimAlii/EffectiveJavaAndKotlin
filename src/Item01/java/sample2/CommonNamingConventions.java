@@ -1,4 +1,4 @@
-package Item01.samples.java.sample2;
+package Item01.java.sample2;
 
 import java.math.BigInteger;
 import java.util.Date;

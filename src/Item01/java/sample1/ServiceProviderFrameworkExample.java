@@ -1,4 +1,4 @@
-package Item01.samples.java.sample1;
+package Item01.java.sample1;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
