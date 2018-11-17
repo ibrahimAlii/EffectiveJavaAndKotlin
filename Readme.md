@@ -8,3 +8,4 @@
 | [Item#4](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item04) | **Enforece noninstantiability with a private constructor** |
 | [Item#5](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item05) | **Prefer dependency injection to hardwiring resources** |
 | [Item#6](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item06) | **Avoid creating unnecessary objects** |
+| [Item#7](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item07) | **Eliminate obsolete objects references** | 
