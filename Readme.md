@@ -9,7 +9,7 @@
 | [Item#5](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item05) | **Prefer dependency injection to hardwiring resources** |
 | [Item#6](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item06) | **Avoid creating unnecessary objects** |
 | [Item#7](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item07) | **Eliminate obsolete objects references** | 
-| [Item#8]() | **Avoid Finalizers and cleaners** |
-| [Item#9]() | **Prefer try-with-resource to try-finally** |
-| [Item#10]() | **Obey the general contract when overriding equals** |
+| [Item#8](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item08) | **Avoid Finalizers and cleaners** |
+| [Item#9](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item09) | **Prefer try-with-resource to try-finally** |
+| [Item#10](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item10) | **Obey the general contract when overriding equals** |
 
