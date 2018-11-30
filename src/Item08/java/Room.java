@@ -1,8 +1,6 @@
 package Item08.java;
 
 
-import sun.misc.Cleaner;
-
 // An autocloseable class using a cleaner as a safety net
 public class Room implements AutoCloseable{
     private static final Cleaner cleaner =  Cleaner.create(null, null);
