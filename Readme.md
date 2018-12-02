@@ -12,4 +12,7 @@
 | [Item#8](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item08) | **Avoid Finalizers and cleaners** |
 | [Item#9](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item09) | **Prefer try-with-resource to try-finally** |
 | [Item#10](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item10) | **Obey the general contract when overriding equals** |
+| [Item#11](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item11) | **Always Override hashCode when you override euals** |
+| [Item#12](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item12) | **Always override toString** |
+| [Item#13](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item13) | **Override clone Judiciously** |
 
