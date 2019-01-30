@@ -2,7 +2,7 @@ package Item10.java;
 
 // Class with a typical equals method
 public class PhoneNumber {
-    private final short areaCode, prefix, lineNum;
+    public final short areaCode, prefix, lineNum;
 
     public PhoneNumber(int areaCode, int prefix, int lineNum) {
         this.areaCode = rangeCheck(areaCode, 999, "area code");
