@@ -1,0 +1,14 @@
+
+
+ **Rules of Immutable classes** (Note this rules are a bit stringer than necessary and can be relaxed to improve performance)
+
+  1- Don't Provide methods that modify the object's state (known as mutators).
+  2- Ensure that the class can't be extended.
+  3- Make all fields final.
+  4- Make all fields private.
+  5- Ensure exclusive access to any mutable components.
+
+  // The major disadvantage of immutable classes is that they require a separate object for each distinct value. //
+
+  // Classes should be immutable unless there's a very good reason to make the mutable.
+      If can't be made immutable, limit it's mutability as mush as possible. //

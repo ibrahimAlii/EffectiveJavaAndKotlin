@@ -12,10 +12,11 @@
 | [Item#8](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item08) | **Avoid Finalizers and cleaners** |
 | [Item#9](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item09) | **Prefer try-with-resource to try-finally** |
 | [Item#10](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item10) | **Obey the general contract when overriding equals** |
-| [Item#11](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item11) | **Always Override hashCode when you override euals** |
+| [Item#11](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item11) | **Always Override hashCode when you override equals** |
 | [Item#12](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item12) | **Always override toString** |
 | [Item#13](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item13) | **Override clone Judiciously** |
 | [Item#14](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item14) | **CONSIDER IMPLEMENTING COMPARABLE** |
 | [Item#15](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item15) | **MINIMIZE THE ACCESSIBILITY OF CLASS AND MEMBERS** |
 | [Item#16](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item16) | **IN PUBLIC CLASSES, USE ACCESSOR METHODS NOT PUBLIC FIELDS** |
+| [Item#17](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item17) | **MINIMIZE MUTABILITY** |
 
