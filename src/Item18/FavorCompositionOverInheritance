@@ -1,0 +1,7 @@
+
+**Inheritance is powerful, but it's a problematic because it violates encapsulation.**
+
+/* It's appropriate only when genuine subtype relationship exists between the subclass and the superclass. Even then,
+   Inheritance may lead to fragility if the subclass in a different package from the superclass and the superclass is not
+   designed for inheritance. */
+

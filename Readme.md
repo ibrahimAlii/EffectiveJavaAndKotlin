@@ -19,4 +19,5 @@
 | [Item#15](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item15) | **MINIMIZE THE ACCESSIBILITY OF CLASS AND MEMBERS** |
 | [Item#16](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item16) | **IN PUBLIC CLASSES, USE ACCESSOR METHODS NOT PUBLIC FIELDS** |
 | [Item#17](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item17) | **MINIMIZE MUTABILITY** |
+| [Item#18](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item18) | **FAVOR COMPOSITION OVER INHERITANCE** |
 
