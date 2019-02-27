@@ -1,7 +1,7 @@
 package Item15;
 
 
-public class MinimizeAccessiblityOfClassesAndMembers {
+public class MinimizeAccessibilityOfClassesAndMembers {
 
 
     // In JAVA

@@ -1,0 +1,5 @@
+
+
+**Summary**:
+            Interfaces should be used only to define types.
+            They shouldn't be used merely to export constants.

@@ -1,0 +1,11 @@
+
+
+
+
+**Summary**:
+           Designing a class for inheritance is hard work. You must document all of its self-use pattern, and once you've
+           documented them, you must commit to them for the life of the class.
+           If you fail to do this, subclasses may become dependent on implementation of the superclass changes.
+           To allow others to write efficient subclasses, you may also have to export one or more protected methods.
+           Unless you know there is a real need for subclasses, you are probably better of prohibiting inheritance by declaring
+           your class final or ensuring that there are no accessible constructors.

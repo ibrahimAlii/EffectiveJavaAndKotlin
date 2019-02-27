@@ -1,0 +1,13 @@
+The steps to write a skeletal implementation:
+   1- Study the interface and decide which methods are the primitives in the term of which the others can be implemented.
+These primitives will be the abstract methods in your skeletal implementation.
+   2- Provide default methods in the interface for all of the methods that can be implemented directly atop the primitives,
+but recall that you may not provide default methods for Object methods such as equals and hashCode, If
+
+
+Summary:
+        An interface is generally the best way to define a type that permits multiple implementations.
+        If you export a nontrivial interface, you should strongly consider providing a skeletal implementation to go with it.
+        To the extent possible, you should provide the skeletal implementation via default methods on the interface so that
+        all implementors of the interface can make use of it.
+        That said, restrictions on interface typically mandate that a skeletal implementation take the form of an abstract class.

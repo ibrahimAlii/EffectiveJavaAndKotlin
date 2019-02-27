@@ -20,4 +20,8 @@
 | [Item#16](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item16) | **IN PUBLIC CLASSES, USE ACCESSOR METHODS NOT PUBLIC FIELDS** |
 | [Item#17](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item17) | **MINIMIZE MUTABILITY** |
 | [Item#18](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item18) | **FAVOR COMPOSITION OVER INHERITANCE** |
+| [Item#19](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item19) | **DESIGN AND DOCUMENT FOR INHERITANCE OR ELSE PROHIBIT IT** |
+| [Item#20](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item20) | **PREFER INTERFACES TO ABSTRACT CLASSES** |
+| [Item#21](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item21) | **DESIGN INTERFACES FOR POSTERITY** |
+| [Item#22](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item22) | **USE INTERFACES ONLY TO DEFINE TYPES** |
 
