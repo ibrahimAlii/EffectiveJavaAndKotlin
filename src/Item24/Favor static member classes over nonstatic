@@ -1,0 +1,11 @@
+
+
+
+
+**Summary**:
+            There are four different kinds of nested classes, and each has its place.
+            If a nested class need to be visible outside of a single method or is too long to fit comfortably inside a method,
+            use a member class.
+            If each instance of a member class needs a reference to its enclosing instance, make it nonstatic; otherwise make it static.
+            Assuming the class belongs inside a method, If you need to create instances from only one location and there is a preexisting
+            type that characterizes the class, make it an anonymous class; otherwise make it local class.
