@@ -23,5 +23,8 @@
 | [Item#19](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item19) | **DESIGN AND DOCUMENT FOR INHERITANCE OR ELSE PROHIBIT IT** |
 | [Item#20](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item20) | **PREFER INTERFACES TO ABSTRACT CLASSES** |
 | [Item#21](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item21) | **DESIGN INTERFACES FOR POSTERITY** |
-| [Item#22](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item22) | **USE INTERFACES ONLY TO DEFINE TYPES** |
+| [Item#22](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item22) | **Use Interface only to define types** |
+| [Item#23](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item23) | **Prefer class hierarchies to tagged classes** |
+| [Item#24](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item24) | **Favor static Member classes over nonstatic** |
+| [Item#25](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item25) | **Limit source files to a single top-level class** |
 
