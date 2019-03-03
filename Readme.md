@@ -27,4 +27,7 @@
 | [Item#23](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item23) | **Prefer class hierarchies to tagged classes** |
 | [Item#24](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item24) | **Favor static Member classes over nonstatic** |
 | [Item#25](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item25) | **Limit source files to a single top-level class** |
+| [Item#26](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item26) | **Don't use raw types** |
+| [Item#27](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item27) | **Eliminate unchecked warnings** |
+| [Item#28](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item28) | **Prefer lists to array** |
 
