@@ -1,0 +1,8 @@
+
+
+**Summary**:
+            Generic methods, like generic types, are safer and easier to use than methods requiring their clients to put
+            explicit casts on input parameters and return values.
+            Like types, you should make sure that your methods can be used without casts, which often means making them generic.
+            And like types, you should generify existing methods whose use requires casts.
+            This make life easier for new users without breaking existing clients.

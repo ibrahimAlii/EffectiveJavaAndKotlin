@@ -30,4 +30,7 @@
 | [Item#26](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item26) | **Don't use raw types** |
 | [Item#27](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item27) | **Eliminate unchecked warnings** |
 | [Item#28](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item28) | **Prefer lists to array** |
+| [Item#29](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item29) | **Favor Generic types** |
+| [Item#30](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item30) | **Favor Generic Methods** |
+| [Item#31](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item31) | **Use bounded wildcards to increase API flexibility** |
 

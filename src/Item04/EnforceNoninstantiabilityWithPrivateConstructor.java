@@ -14,7 +14,7 @@ package Item04;
  */
 
 /**
- * A class can be made noninstantiability by including private constructor. [See Examples]
+ * A class can be made noninstantiability by including private constructor. [See WildCards]
  */
 public class EnforceNoninstantiabilityWithPrivateConstructor {
 }
