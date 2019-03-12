@@ -1,0 +1,10 @@
+
+
+
+
+**Summary**:
+            Varargs and generics do not interact well because the varargs facility is a leaky abstraction built atop arrays,
+            and arrays have different type rules from generics.
+            Though generic varargs parameters are not typesafe, they are legal. If you choose to write a method with a generic
+            (or parameterized) varargs parameter, first ensure that the method is typesafe, and then annotate it with @SafeVarargs
+            so it is not unpleasant to use.
