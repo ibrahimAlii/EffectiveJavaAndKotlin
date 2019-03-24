@@ -33,4 +33,6 @@
 | [Item#29](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item29) | **Favor Generic types** |
 | [Item#30](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item30) | **Favor Generic Methods** |
 | [Item#31](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item31) | **Use bounded wildcards to increase API flexibility** |
+| [Item#32](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item32) | **Combine generics and varargs judiciously** |
+| [Item#33](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item33) | **Consider typesafe heterogeneous containers** |
 
