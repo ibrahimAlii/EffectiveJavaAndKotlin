@@ -35,4 +35,5 @@
 | [Item#31](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item31) | **Use bounded wildcards to increase API flexibility** |
 | [Item#32](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item32) | **Combine generics and varargs judiciously** |
 | [Item#33](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item33) | **Consider typesafe heterogeneous containers** |
+| [Item#34](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item34) | **Use enums instead of int constants** |
 
