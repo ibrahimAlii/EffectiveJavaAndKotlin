@@ -36,4 +36,7 @@
 | [Item#32](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item32) | **Combine generics and varargs judiciously** |
 | [Item#33](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item33) | **Consider typesafe heterogeneous containers** |
 | [Item#34](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item34) | **Use enums instead of int constants** |
+| [Item#35](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item35) | **Use instance fields instead of ordinals** |
+| [Item#36](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item36) | **Use EnumSet instead of bit fields** |
+| [Item#37](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item37) | **Use EnumMap instead of ordinal indexing** |
 
