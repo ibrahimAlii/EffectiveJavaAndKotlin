@@ -39,4 +39,8 @@
 | [Item#35](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item35) | **Use instance fields instead of ordinals** |
 | [Item#36](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item36) | **Use EnumSet instead of bit fields** |
 | [Item#37](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item37) | **Use EnumMap instead of ordinal indexing** |
+| [Item#38](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item38) | **Emulate extensible enums with interfaces** |
+| [Item#39](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item39) | **Prefer annotations to naming patterns** |
+| [Item#40](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item40) | **Consistently use the Override annotation** |
+| [Item#41](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item41) | **Use marker interface to define types** |
 

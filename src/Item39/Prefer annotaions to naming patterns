@@ -1,0 +1,12 @@
+
+
+
+
+**Summary:**
+            There is simply no reason to use naming patterns when you can use annotations instead.
+            That said, with the exception of toolsmiths, most programmers will have no need to define annotation types.
+            But all programmers should use predefined annotation types that Java provides(Item 40, 27).
+            Also, consider using the annotations provided by your IDE or static analysis tools.
+            Such annotations can improve the quality of the diagnostic information provided by these tools.
+            Note, however that these annotation have yet to be standardized, so you may have some work to do if you switch tools
+            or if a standard emerges.
