@@ -1,0 +1,9 @@
+
+
+
+
+**Summary:**
+           As of Java 8, lambdas ar by far the best way to represent small function objects.
+           Don't use anonymous classes for function objects unless you have to create instances of types that aren't functional interface.
+           Also remember that lambdas make it so easy to represent small function objects that it opens the door to functional
+           programming techniques that were not previously practical in Java.

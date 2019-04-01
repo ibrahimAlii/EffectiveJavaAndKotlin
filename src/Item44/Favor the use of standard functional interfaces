@@ -1,0 +1,32 @@
+
+
+
+
+**Summary:**
+            Now that Java has lambdas, it is imperative that you design your APIs with lambdas in mind.
+            Accept functional interface types on input and return them on output.
+            It is generally best to use standard interfaces provided in java.util.function.Function, but keep your eyes open
+            for the relatively rare cases where you would be better of writing own functional interface.
+
+
+
+
+- There are forty-three interfaces in java.util.Function. You can't remember them all, but if you remember this basic interfaces
+  you can derive the rest when you need them:
+
+
+________________________________________________________________________________________________________________________
+ Interface                               FunctionSignature                            Example
+________________________________________________________________________________________________________________________
+
+ UnaryOperator<T>                        T apply(T t)                                 String::toLowerCase
+
+ BinaryOperator<T>                       T apply(T t1, T t2)                          BigInteger::add
+
+ Predicate<T>                            boolean test(T t)                            Collection::isEmpty
+
+ Function<T,R>                           R apply(T t)                                 Arrays::asList
+
+ Supplier<T>                             T get()                                      Instant::now
+
+ Consumer<T>                             void accept(T t)                             System.out::println

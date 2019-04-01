@@ -43,4 +43,7 @@
 | [Item#39](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item39) | **Prefer annotations to naming patterns** |
 | [Item#40](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item40) | **Consistently use the Override annotation** |
 | [Item#41](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item41) | **Use marker interface to define types** |
+| [Item#42](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item42) | **Prefer lambdas to anonymous classes** |
+| [Item#43](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item43) | **Prefer method references to lambdas** |
+| [Item#44](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item44) | **Favor the use of standard functional interfaces** |
 
