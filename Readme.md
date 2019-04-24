@@ -46,4 +46,6 @@
 | [Item#42](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item42) | **Prefer lambdas to anonymous classes** |
 | [Item#43](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item43) | **Prefer method references to lambdas** |
 | [Item#44](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item44) | **Favor the use of standard functional interfaces** |
+| [Item#45](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item45) | **USE STREAM JUDICIOUSLY** |
+| [Item#46](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item46) | **PREFER SIDE-EFFECT-FREE FUNCTIONS IN STREAMS** |
 

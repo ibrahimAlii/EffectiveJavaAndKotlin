@@ -1,0 +1,37 @@
+
+
+**Summary:**
+           Some tasks are best accomplished with streams, and others with iteration.
+           Many tasks are best accomplished by combining the two approaches.
+           There are no hard and fast rules for choosing which approach to use for task, but there are some useful heuristics.
+           In many cases, it will be clear which approach to use; in some cases, it won't.
+           If you're not sure whether a task is better served by streams or iteration, try both and see which works better.
+
+
+
+
+
+
+
+# If a computation is best expressed using these techniques, then it's probably not a good match for streams:
+
+- From a code block, you can read or modify any local variable in scope; from a lambda, you can only read final or effectively
+  final variables, and you can't modify any local variables.
+
+- From a code block, you can return from the enclosing method, break or continue an enclosing loop, or throw any checked
+  exception that this method is declared to throw; from a lambda you can do none of these things.
+
+
+
+# Otherwise it's a good candidate for stream if:
+
+
+- Uniformly transform sequences of elements.
+
+- Filter sequences of elements.
+
+- Combine sequences of elements using a single operation (for example to add them, concatenate them, or compute their minimum).
+
+- Accumulate sequences of elements into a collection, perhaps grouping them by some common attribute.
+
+- Search a sequence of elements for an element satisfying some criterion.
