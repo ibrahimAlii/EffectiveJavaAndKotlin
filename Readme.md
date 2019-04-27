@@ -48,5 +48,5 @@
 | [Item#44](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item44) | **Favor the use of standard functional interfaces** |
 | [Item#45](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item45) | **USE STREAM JUDICIOUSLY** |
 | [Item#46](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item46) | **PREFER SIDE-EFFECT-FREE FUNCTIONS IN STREAMS** |
-| [Item#47](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47) | **PREFER COLLECTION TO STREAM AS A RETURN TYPE** |
+| [Item#47](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47/Item47.md) | **PREFER COLLECTION TO STREAM AS A RETURN TYPE** |
 
