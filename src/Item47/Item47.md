@@ -1,4 +1,4 @@
-#Prefer collection to stream as a return type - تفضيل إستخدام "المجوموعة (مكتبة جافا)" عن "ستريم" كبيانات مرجعية
+# Prefer collection to stream as a return type - تفضيل إستخدام "المجوموعة (مكتبة جافا)" عن "ستريم" كبيانات مرجعية
 
 **التلخيص:**
 

@@ -49,4 +49,5 @@
 | [Item#45](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item45) | **USE STREAM JUDICIOUSLY** |
 | [Item#46](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item46) | **PREFER SIDE-EFFECT-FREE FUNCTIONS IN STREAMS** |
 | [Item#47](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47/Item47.md) | **PREFER COLLECTION TO STREAM AS A RETURN TYPE** |
+| [Item#48](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47/Item48.md) | **USE CAUTION WHEN MAKING STREAM PARALLEL-ARABIC-استخدم البرمجة المتوازية عند استخدامك الـ "ستريم" بحذر** |
 
