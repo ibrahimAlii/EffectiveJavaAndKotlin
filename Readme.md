@@ -1,7 +1,7 @@
 **Effective-Java-Third-Edition**
 
 | Item | Description |
-| --- | ---------- |
+| ---- | ---------- |
 | [Item#1](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item01) | **Considering static factory methods instead of constructors** A technique that should be a part of every programmer's toolkit. |
 | [Item#2](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item02) | **Consider a builder when faced with many constructor parameters** | 
 | [Item#3](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item03) | **Enforcing the singleton property with a private constructor or an enum type** .. |
@@ -50,4 +50,7 @@
 | [Item#46](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item46) | **PREFER SIDE-EFFECT-FREE FUNCTIONS IN STREAMS** |
 | [Item#47](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47/Item47.md) | **PREFER COLLECTION TO STREAM AS A RETURN TYPE** |
 | [Item#48](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item48/Item48.md) | **USE CAUTION WHEN MAKING STREAM PARALLEL-ARABIC-استخدم البرمجة المتوازية عند استخدامك الـ "ستريم" بحذر** |
+|**Chapter 8**| How to treat parameters and return values, how to design methods signatures, and how to document methods.| 
+| [Item#49](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item49/Item49.md) | **Check parameters for validity Arabic - تأكد من صحة المدخلات** |
+
 
