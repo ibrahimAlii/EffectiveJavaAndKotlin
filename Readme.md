@@ -53,5 +53,6 @@
 |**Chapter 8**| How to treat parameters and return values, how to design methods signatures, and how to document methods.| 
 | [Item#49](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item49/Item49.md) | **Check parameters for validity Arabic - تأكد من صحة المدخلات** |
 | [Item#50](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item50/Item50.md) | **Make defensive copies when needed - استخدم نسخ وقائية عند الحاجة** |
+| [Item#51](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item51/Item51.md) | **Design method signatures carefully - صمم هيكلية الدالة بحذر** |
 
 
