@@ -54,5 +54,6 @@
 | [Item#49](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item49/Item49.md) | **Check parameters for validity Arabic - تأكد من صحة المدخلات** |
 | [Item#50](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item50/Item50.md) | **Make defensive copies when needed - استخدم نسخ وقائية عند الحاجة** |
 | [Item#51](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item51/Item51.md) | **Design method signatures carefully - صمم هيكلية الدالة بحذر** |
+| [Item#52](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item52/Item52.md) | **Use overloading judiciously - استخدم تعددية الدوال بحذر** |
 
 
