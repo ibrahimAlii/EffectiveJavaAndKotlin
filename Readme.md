@@ -57,5 +57,6 @@
 | [Item#52](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item52/Item52.md) | **Use overloading judiciously - استخدم تعددية الدوال بحذر** |
 | [Item#53](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item53/Item53.md) | **Use varargs judiciously - استخدم قيم الوسائط المتعددة بحذر** |
 | [Item#54](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item54/Item54.md) | **Return empty collections or arrays, not nulls - قم بارجاع مجموعة أو متسلسلة فارغة وليس قيمة معدومة** |
+| [Item#55](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item54/Item55.md) | **Return optionals judiciously - قم بإرجاع القيم الاختيارية بحذر** |
 
 
