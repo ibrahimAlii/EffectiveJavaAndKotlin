@@ -50,13 +50,14 @@
 | [Item#46](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item46) | **PREFER SIDE-EFFECT-FREE FUNCTIONS IN STREAMS** |
 | [Item#47](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item47/Item47.md) | **PREFER COLLECTION TO STREAM AS A RETURN TYPE** |
 | [Item#48](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item48/Item48.md) | **USE CAUTION WHEN MAKING STREAM PARALLEL-ARABIC-استخدم البرمجة المتوازية عند استخدامك الـ "ستريم" بحذر** |
-|**Chapter 8**| How to treat parameters and return values, how to design methods signatures, and how to document methods.| 
+|**Chapter 8** | How to treat parameters and return values, how to design methods signatures, and how to document methods.| 
 | [Item#49](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item49/Item49.md) | **Check parameters for validity Arabic - تأكد من صحة المدخلات** |
 | [Item#50](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item50/Item50.md) | **Make defensive copies when needed - استخدم نسخ وقائية عند الحاجة** |
 | [Item#51](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item51/Item51.md) | **Design method signatures carefully - صمم هيكلية الدالة بحذر** |
 | [Item#52](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item52/Item52.md) | **Use overloading judiciously - استخدم تعددية الدوال بحذر** |
 | [Item#53](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item53/Item53.md) | **Use varargs judiciously - استخدم قيم الوسائط المتعددة بحذر** |
 | [Item#54](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item54/Item54.md) | **Return empty collections or arrays, not nulls - قم بارجاع مجموعة أو متسلسلة فارغة وليس قيمة معدومة** |
-| [Item#55](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item54/Item55.md) | **Return optionals judiciously - قم بإرجاع القيم الاختيارية بحذر** |
-
-
+| [Item#55](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item55/Item55.md) | **Return optionals judiciously - قم بإرجاع القيم الاختيارية بحذر** |
+| [Item#56](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item56/Item56.md) | **Write doc comments for all exposed API elements - قم بكتابة تعليقات موثقة لكل عنصر مكشوف** |
+|**Chapter 9** |**General Programming - برمجة عامة** locale variables, control structure, libraries, data types, and two extralinguistic facilities: reflection and native methods| 
+| [Item#57](https://github.com/ibrahimAlii/EffectiveJava3rd/tree/master/src/Item57/Item57.md) | **Write doc comments for all exposed API elements - قم بكتابة تعليقات موثقة لكل عنصر مكشوف** |
